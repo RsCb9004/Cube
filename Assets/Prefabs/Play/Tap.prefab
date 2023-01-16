@@ -125,12 +125,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcda35eb0dd2bc4f88e718984e493a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sprites:
-  - {fileID: 5608704687745924794, guid: ae48461ec9b2c274a93df5498e23e94b, type: 3}
-  - {fileID: -4926865390736653036, guid: ae48461ec9b2c274a93df5498e23e94b, type: 3}
-  - {fileID: -7178740652941388605, guid: ae48461ec9b2c274a93df5498e23e94b, type: 3}
   note:
     moment: 0
+    endMoment: 0
     direction: 0
     style: 0
     speed: 1
+  sprites:
+  - {fileID: 5608704687745924794, guid: ae48461ec9b2c274a93df5498e23e94b, type: 3}
+  - {fileID: -4926865390736653036, guid: ae48461ec9b2c274a93df5498e23e94b, type: 3}
+  - {fileID: 6521075464896751624, guid: ae48461ec9b2c274a93df5498e23e94b, type: 3}
